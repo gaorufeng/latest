@@ -27,5 +27,14 @@ gaorufeng
 
 
 
+工具链接:
+
+百度云:  https://pan.baidu.com/
+
+p2p 文件同步  https://www.resilio-sync.cn/ 下载 https://www.resilio-sync.cn/download
+
+
+
+
 
 
